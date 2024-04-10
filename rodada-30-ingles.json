@@ -3,6 +3,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Newcastle",
@@ -63,6 +64,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Bournemouth",
@@ -123,6 +125,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Chelsea",
@@ -183,6 +186,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Nottingham",
@@ -243,6 +247,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Sheffield",
@@ -303,6 +308,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Tottenham",
@@ -363,6 +369,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Aston Villa",
@@ -423,6 +430,7 @@
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
     "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Brentford",
@@ -482,7 +490,8 @@
 {
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
-    "data": "31.03.24",
+    "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "Liverpool",
@@ -542,7 +551,8 @@
 {
     "descricao": "Premier League A 2023-24",
     "rodada": 30,
-    "data": "31.03.24",
+    "data": "30.03.24",
+    "isCasa": true,
 
     "mandante":{
         "nome": "City",
