@@ -553,6 +553,7 @@
     "rodada": 30,
     "data": "30.03.24",
     "isCasa": true,
+    
 
     "mandante":{
         "nome": "City",
@@ -604,7 +605,11 @@
     "EstatisticaCartoesVisitante":{
         "cartoesAmarelo": 2,
         "cartoesVermelho": 0
-    }
+    },
+
+    "COMENTARIO": " FIM DA RODADA 30"
+    
+   
 }
 
 
