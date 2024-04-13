@@ -2,7 +2,7 @@
     {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "11.08.23",
+      "data": "11/08/2023",
       
       "mandante": {
              "nome": "Burnley",
@@ -48,7 +48,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "12.08.23",
+      "data": "12/08/2023",
       
       "mandante": {
           "nome": "Arsenal",
@@ -94,7 +94,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "12.08.23",
+      "data": "12/08/2023",
       
       "mandante": {
         "nome": "Sheffield",
@@ -140,7 +140,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "12.08.23",
+      "data": "12/08/2023",
       
       "mandante": {
               "nome": "Everton",
@@ -186,7 +186,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "12.08.23",
+      "data": "12/08/2023",
       
       "mandante": {
             "nome": "Brighton",
@@ -232,7 +232,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "12.08.23",
+      "data": "12/08/2023",
       
       "mandante": {
            "nome": "Bournemouth",
@@ -278,7 +278,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "12.08.23",
+      "data": "12/08/2023",
       
       "mandante": {
         "nome": "Newcastle",
@@ -324,7 +324,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "13.08.23",
+      "data": "13/08/2023",
       
       "mandante": {
             "nome": "Brentford",
@@ -370,7 +370,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "13.08.23",
+      "data": "13/08/2023",
       
       "mandante": {
              "nome": "Chelsea",
@@ -416,7 +416,7 @@
   {
       "descricao": "Premier League A 2023-24",
       "rodada": 1 ,
-      "data": "14.08.23",
+      "data": "14/08/2023",
       
       "mandante": {
         "nome": "United",
@@ -463,7 +463,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "18.08.23",
+        "data": "18/08/2023",
         
         "mandante": {
           "nome": "Nottingham",
@@ -509,7 +509,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "19.08.23",
+        "data": "19/08/2023",
         
         "mandante": {
          "nome": "Wolves",
@@ -555,7 +555,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "19.08.23",
+        "data": "19/08/2023",
         
         "mandante": {
           "nome": "Liverpool",
@@ -601,7 +601,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "19.08.23",
+        "data": "19/08/2023",
         
         "mandante": {
                 "nome": "Fulham",
@@ -647,7 +647,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "19.08.23",
+        "data": "19/08/2023",
         
         "mandante": {
           "nome": "Tottenham",
@@ -693,7 +693,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "19.08.23",
+        "data": "19/08/2023",
         
         "mandante": {
           "nome": "City",
@@ -739,7 +739,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "20.08.23",
+        "data": "20/08/2023",
         
         "mandante": {
              "nome": "Aston Villa",
@@ -785,7 +785,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "20.08.23",
+        "data": "20/08/2023",
         
         "mandante": {
           "nome": "West Ham",
@@ -831,7 +831,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "21.08.23",
+        "data": "21/08/2023",
         
         "mandante": {
                 "nome": "Crystal Palace",
@@ -877,7 +877,7 @@
     {
         "descricao": "Premier League A 2023-24",
         "rodada": 2 ,
-        "data": "03.10.23",
+        "data": "03/10/2023",
         
         "mandante": {
                "nome": "Luton",
@@ -924,48 +924,6 @@
          
     
       
-      
-    
-
-
-
-
-    
-    
-    
-      
-    
-    
-        
-    
-    
-     
-      
-    
-      
-      
-    
-    
-    
-    
-      
-     
-
-
-
-
-
-    
-    
-    
-    
-     
-    
-     
-    
-    
-  
-    
     
     ]
   
